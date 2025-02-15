@@ -1,4 +1,3 @@
- 
 # Sparse Matrix Array Project1
 
 ## Description:
